@@ -1,0 +1,941 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LastVersion\\GraduationProject\\APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\electronicsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\electronicsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\electronicproductwishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\electronicproductwishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\beautyproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\beautyproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\beautyproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\beautyproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\beautyproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\beautyproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\beautywishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\beautywishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\bookswishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\bookswishlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\bookproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\bookproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\fashionproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\fashionproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\gamingproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\gamingproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\sportsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\sportsproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\sportsproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\sportsproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\gamingproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\gamingproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\fashionproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\fashionproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\electronicproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\electronicproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\bookproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\bookproductimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\sportsproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\sportsproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\gamingproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\gamingproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\fashionproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\fashionproductimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\electronicsproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\electronicsproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\booksproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\booksproductsimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\imagedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\imagedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\apis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\apis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\apis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\customsearchbasedoncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\customsearchbasedoncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\offlinesuggesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\offlinesuggesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\controllers\\onlinesuggesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\controllers\\onlinesuggesioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\serviceimplement\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\serviceimplement\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\sellerregiserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\sellerregiserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\bookswishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\bookswishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\userpasswordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\userpasswordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\athenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\athenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\sellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\sellerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\graduationdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\graduationdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\DZLH7HR3\\CustomSearchBasedOnCategoryController[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Test\\GraduationProject\\APIs\\APIs\\Migrations\\20240627152857_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GradutionProJect\\GraduationProject\\APIs\\APIs\\Migrations\\20240627151959_interger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\beautywishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\beautywishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2M4M6DZY\\OfflineSuggesionController[2].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2M4M6DZY\\OfflineSuggesionController[1].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\adminregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\adminregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GraduationProject\\APIs\\APIs\\Migrations\\20240622115801_orderheaderanddetailsd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\wishlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GraduationProject\\APIs\\APIs\\Migrations\\20240622111235_UserNametoWish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\dtos\\shoppingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\dtos\\shoppingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|d:\\lastversion\\graduationproject\\apis\\apis\\migrations\\20240630203757_roleswithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FF825F-9483-495C-9A2E-2263972226E0}|APIs\\APIs.csproj|solutionrelative:apis\\migrations\\20240630203757_roleswithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksWishListController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BooksWishListController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BooksWishListController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BooksWishListController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BooksWishListController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:40:05.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwNMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:36:27.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeautyProductsImage.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BeautyProductsImage.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\BeautyProductsImage.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BeautyProductsImage.cs",
+              "RelativeToolTip": "APIs\\Models\\BeautyProductsImage.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:24:00.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicProductWishListController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\ElectronicProductWishListController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\ElectronicProductWishListController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\ElectronicProductWishListController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\ElectronicProductWishListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:41:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectronicsProductController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\ElectronicsProductController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\ElectronicsProductController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\ElectronicsProductController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\ElectronicsProductController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAwwGIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:20:37.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeautyProductImageController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BeautyProductImageController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BeautyProductImageController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BeautyProductImageController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BeautyProductImageController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAwwFAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:33:53.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeautyProductsController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BeautyProductsController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BeautyProductsController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BeautyProductsController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BeautyProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wFUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T09:15:58.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeautyWishListController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BeautyWishListController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BeautyWishListController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BeautyWishListController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BeautyWishListController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:04:50.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookProductsController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BookProductsController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BookProductsController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BookProductsController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BookProductsController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAxwIMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:21:17.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FashionProductController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\FashionProductController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\FashionProductController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\FashionProductController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\FashionProductController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAzwIgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:23:46.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GamingProductController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\GamingProductController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\GamingProductController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\GamingProductController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\GamingProductController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAIBCwJkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:24:51.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SportsProductController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SportsProductController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\SportsProductController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SportsProductController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\SportsProductController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAmwJsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:29:03.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SportsProductImageController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SportsProductImageController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\SportsProductImageController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SportsProductImageController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\SportsProductImageController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAxwEUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:05:26.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GamingProductImageController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\GamingProductImageController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\GamingProductImageController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\GamingProductImageController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\GamingProductImageController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwEwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:03:48.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BuyerController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BuyerController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wF4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:26:10.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FashionProductImageController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\FashionProductImageController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\FashionProductImageController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\FashionProductImageController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\FashionProductImageController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAmwEwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:01:44.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElectronicProductImageController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\ElectronicProductImageController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\ElectronicProductImageController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\ElectronicProductImageController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\ElectronicProductImageController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwFYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:59:15.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookProductImageController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BookProductImageController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\BookProductImageController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\BookProductImageController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\BookProductImageController.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwFgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:56:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SearchController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SearchController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\SearchController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SearchController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\SearchController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:11:52.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SportsProductsImage.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\SportsProductsImage.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\SportsProductsImage.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\SportsProductsImage.cs",
+              "RelativeToolTip": "APIs\\Models\\SportsProductsImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:26:00.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GamingProductsImage.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\GamingProductsImage.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\GamingProductsImage.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\GamingProductsImage.cs",
+              "RelativeToolTip": "APIs\\Models\\GamingProductsImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:25:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FashionProductImage.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\FashionProductImage.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\FashionProductImage.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\FashionProductImage.cs",
+              "RelativeToolTip": "APIs\\Models\\FashionProductImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:25:42.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ElectronicsProductsImage.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\ElectronicsProductsImage.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\ElectronicsProductsImage.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\ElectronicsProductsImage.cs",
+              "RelativeToolTip": "APIs\\Models\\ElectronicsProductsImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:25:34.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BooksProductsImage.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BooksProductsImage.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\BooksProductsImage.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BooksProductsImage.cs",
+              "RelativeToolTip": "APIs\\Models\\BooksProductsImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:25:21.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImageDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\ImageDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\ImageDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\ImageDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\ImageDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:31:35.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ImageDetailsDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\ImageDetailsDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\ImageDetailsDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\ImageDetailsDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\ImageDetailsDTO.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAABBwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T20:15:51.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "APIs\\appsettings.json",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\appsettings.json",
+              "RelativeToolTip": "APIs\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T15:28:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CustomSearchBasedOnCategoryController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\CustomSearchBasedOnCategoryController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\CustomSearchBasedOnCategoryController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\CustomSearchBasedOnCategoryController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\CustomSearchBasedOnCategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwK8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:16:30.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "APIs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\APIs.csproj",
+              "RelativeDocumentMoniker": "APIs\\APIs.csproj",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\APIs.csproj",
+              "RelativeToolTip": "APIs\\APIs.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T10:46:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\SellerController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\SellerController.cs",
+              "ViewState": "AQIAALYAAAAAAAAAAAAgwGMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:31:32.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "APIs.csproj",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\APIs.csproj",
+              "RelativeDocumentMoniker": "APIs\\APIs.csproj",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\APIs.csproj",
+              "RelativeToolTip": "APIs\\APIs.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T10:45:50.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OfflineSuggesionController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\OfflineSuggesionController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\OfflineSuggesionController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\OfflineSuggesionController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\OfflineSuggesionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:16:32.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OnlineSuggesionController.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\OnlineSuggesionController.cs",
+              "RelativeDocumentMoniker": "APIs\\Controllers\\OnlineSuggesionController.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Controllers\\OnlineSuggesionController.cs",
+              "RelativeToolTip": "APIs\\Controllers\\OnlineSuggesionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:48:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\ServiceImplement\\JwtService.cs",
+              "RelativeDocumentMoniker": "APIs\\ServiceImplement\\JwtService.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\ServiceImplement\\JwtService.cs",
+              "RelativeToolTip": "APIs\\ServiceImplement\\JwtService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:45:09.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "APIs\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Services\\IJwtService.cs",
+              "RelativeToolTip": "APIs\\Services\\IJwtService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:34:32.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Program.cs",
+              "RelativeDocumentMoniker": "APIs\\Program.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Program.cs",
+              "RelativeToolTip": "APIs\\Program.cs",
+              "ViewState": "AQIAAIwAAAAAAAAAAAA6wJYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:05:04.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SellerRegiserDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\SellerRegiserDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\SellerRegiserDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\SellerRegiserDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\SellerRegiserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:14:08.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\ApplicationRole.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "APIs\\Models\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:15:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BooksWishlist.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BooksWishlist.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\BooksWishlist.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BooksWishlist.cs",
+              "RelativeToolTip": "APIs\\Models\\BooksWishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:50:22.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "APIs\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:14:56.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\LoginDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:05:28.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BuyerDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\BuyerDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\BuyerDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\BuyerDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\BuyerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:19:47.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserPasswordUpdateDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\UserPasswordUpdateDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\UserPasswordUpdateDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\UserPasswordUpdateDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\UserPasswordUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:31:41.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SellerDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\SellerDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\SellerDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\SellerDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\SellerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:09:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AthenticationResponseDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\AthenticationResponseDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\AthenticationResponseDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\AthenticationResponseDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\AthenticationResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T21:28:21.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GraduationDataBaseContext.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\GraduationDataBaseContext.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\GraduationDataBaseContext.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\GraduationDataBaseContext.cs",
+              "RelativeToolTip": "APIs\\Models\\GraduationDataBaseContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAywEoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:57:26.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240630203757_RolesWithData.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Migrations\\20240630203757_RolesWithData.cs",
+              "RelativeDocumentMoniker": "APIs\\Migrations\\20240630203757_RolesWithData.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Migrations\\20240630203757_RolesWithData.cs",
+              "RelativeToolTip": "APIs\\Migrations\\20240630203757_RolesWithData.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAywC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T20:37:57.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CustomSearchBasedOnCategoryController[1].cs",
+              "DocumentMoniker": "C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\DZLH7HR3\\CustomSearchBasedOnCategoryController[1].cs",
+              "ToolTip": "C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\DZLH7HR3\\CustomSearchBasedOnCategoryController[1].cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:29:02.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20240627151959_interger.cs",
+              "DocumentMoniker": "F:\\GradutionProJect\\GraduationProject\\APIs\\APIs\\Migrations\\20240627151959_interger.cs",
+              "ToolTip": "F:\\GradutionProJect\\GraduationProject\\APIs\\APIs\\Migrations\\20240627151959_interger.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:19:59.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240627152857_test.cs",
+              "DocumentMoniker": "F:\\Test\\GraduationProject\\APIs\\APIs\\Migrations\\20240627152857_test.cs",
+              "ToolTip": "F:\\Test\\GraduationProject\\APIs\\APIs\\Migrations\\20240627152857_test.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:28:57.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BeautyWishlist.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BeautyWishlist.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\BeautyWishlist.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\BeautyWishlist.cs",
+              "RelativeToolTip": "APIs\\Models\\BeautyWishlist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:10:20.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "APIs\\Models\\Seller.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\Models\\Seller.cs",
+              "RelativeToolTip": "APIs\\Models\\Seller.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA+wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:11:33.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OfflineSuggesionController[2].cs",
+              "DocumentMoniker": "C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2M4M6DZY\\OfflineSuggesionController[2].cs",
+              "ToolTip": "C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2M4M6DZY\\OfflineSuggesionController[2].cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:34:19.908Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "OfflineSuggesionController[1].cs",
+              "DocumentMoniker": "C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2M4M6DZY\\OfflineSuggesionController[1].cs",
+              "ToolTip": "C:\\Users\\USER-TECH\\AppData\\Local\\Microsoft\\Windows\\INetCache\\IE\\2M4M6DZY\\OfflineSuggesionController[1].cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:34:08.595Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminRegisterDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\AdminRegisterDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\AdminRegisterDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\AdminRegisterDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\AdminRegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T13:33:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240622115801_orderheaderanddetailsd.cs",
+              "DocumentMoniker": "F:\\GraduationProject\\APIs\\APIs\\Migrations\\20240622115801_orderheaderanddetailsd.cs",
+              "ToolTip": "F:\\GraduationProject\\APIs\\APIs\\Migrations\\20240622115801_orderheaderanddetailsd.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:58:01.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20240622111235_UserNametoWish.cs",
+              "DocumentMoniker": "F:\\GraduationProject\\APIs\\APIs\\Migrations\\20240622111235_UserNametoWish.cs",
+              "ToolTip": "F:\\GraduationProject\\APIs\\APIs\\Migrations\\20240622111235_UserNametoWish.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:12:35.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WishListDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\WishListDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\WishListDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\WishListDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\WishListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T11:07:24.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ShoppingDTO.cs",
+              "DocumentMoniker": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\ShoppingDTO.cs",
+              "RelativeDocumentMoniker": "APIs\\DTOs\\ShoppingDTO.cs",
+              "ToolTip": "D:\\LastVersion\\GraduationProject\\APIs\\APIs\\DTOs\\ShoppingDTO.cs",
+              "RelativeToolTip": "APIs\\DTOs\\ShoppingDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:16:09.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
